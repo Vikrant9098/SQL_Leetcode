@@ -16,3 +16,4 @@ WHERE
         GROUP BY 
             customer_id
     );
+OUTTEAM
